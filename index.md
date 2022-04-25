@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Bine ai venit!"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Ma bucur ca esti aici!
